@@ -1,7 +1,6 @@
-# Inverts ratio (Such as turning miles-per-truck to trucks-per-mile)
 import re
 
-
+# Inverts ratio (Such as turning miles-per-truck to trucks-per-mile)
 def invert_ratio(ratio):
     return 1 / ratio
 
